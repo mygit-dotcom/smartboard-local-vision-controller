@@ -1,0 +1,35 @@
+{
+  "camera_index": 0,
+  "camera_width": 1280,
+  "camera_height": 720,
+  "camera_fps": 30,
+
+  "screen_width": 1920,
+  "screen_height": 1080,
+  "projector_offset_x": 0,
+  "projector_offset_y": 0,
+
+  "marker_mode": "led",
+
+  "brightness_threshold": 230,
+
+  "red_lower_1": [0, 100, 80],
+  "red_upper_1": [10, 255, 255],
+  "red_lower_2": [170, 100, 80],
+  "red_upper_2": [180, 255, 255],
+
+  "min_marker_area": 8,
+  "max_marker_area": 800,
+
+  "smoothing_alpha": 0.35,
+
+  "confidence_threshold": 0.75,
+
+  "click_hold_frames": 4,
+  "click_cooldown_ms": 300,
+
+  "enable_mouse_control": false,
+  "safe_mode": true,
+
+  "calibration_points": null
+}
